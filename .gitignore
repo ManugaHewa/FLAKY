@@ -1,0 +1,18 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Project data & model artifacts (see README)
+data/
+models/
+
+# Secrets
+.env
+
+# Editor/OS cruft
+.vscode/
+.DS_Store
